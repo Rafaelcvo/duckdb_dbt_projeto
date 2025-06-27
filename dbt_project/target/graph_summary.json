@@ -1,0 +1,1 @@
+{"_invocation_id": "37781f3a-092a-49c9-af13-33798eddec1a", "linked": {"0": {"name": "model.dbt_project.vendas_raw", "type": "model", "succ": [2]}, "1": {"name": "model.dbt_project.total_vendas_por_cliente", "type": "model"}, "2": {"name": "model.dbt_project.vendas_limpas", "type": "model", "succ": [1]}}}
